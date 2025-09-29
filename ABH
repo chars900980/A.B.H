@@ -1,1 +1,1 @@
-return {["Users"] = {[666] = {["Reason"] = "Test!"}},}
+return {["Users"] = {[666] = {["Reason"] = "Test!"}}, ["UnBan"] = {[1234] = true}}
